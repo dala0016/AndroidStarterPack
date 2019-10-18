@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chat_item"
+        android:icon="@drawable/row_odd"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/list_item"
+        android:icon="@drawable/jeep"
+        android:title="List" />
+
+    <item
+        android:id="@+id/contact_item"
+        android:icon="@drawable/row_even"
+        android:title="Contact" />
+</menu>

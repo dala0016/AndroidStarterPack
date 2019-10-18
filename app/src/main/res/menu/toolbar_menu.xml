@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_one"
+        android:icon="@drawable/iwatch"
+        android:orderInCategory="100"
+        android:title=""
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_two"
+        android:icon="@drawable/bean"
+        android:orderInCategory="200"
+        android:title=""
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_three"
+        android:title=""
+        android:icon="@drawable/jeep"
+        android:orderInCategory="300"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_four"
+        android:icon="@drawable/ps"
+        android:orderInCategory="400"
+        android:title="About"
+        app:showAsAction="ifRoom" />
+
+</menu>

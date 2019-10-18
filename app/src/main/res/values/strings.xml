@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\’m a button</string>
+    <string name="LogIN">login</string>
+    <string name="password">password</string>
+    <string name="LogName">login name</string>
+    <string name="ChatButton">Start Chat</string>
+    <string name="WeatherForecast">Weather Forecast</string>
+    <string name="dialog_message">Are You sure you want to QUIT?</string>
+    <string name="dialog_title">Exit</string>
+    <string name="yes">YES</string>
+    <string name="toastMessage">User clicked YES button</string>
+    <string name="no">NO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    dialog_message
+</resources>
